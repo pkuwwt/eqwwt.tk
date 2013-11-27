@@ -21,8 +21,8 @@ In `CNAME` file, input a single domain name, `yourdomain.tk`.
 Step 3.
 =======
 Revise the DNS of the domain.
-  * A Record: 
-  * hostname: `yourdomain.tk`
+  * `A Record`: 
+  * domain name: `yourdomain.tk`
   * IP:        `204.232.175.78`
 
 Step 4.
@@ -31,5 +31,5 @@ Wait for 10 minutes, you can access your website by `yourdomain.tk`. If you have
 
 Note:
 =======
-The tutorial above only setup a domain on project pages. If you want to setup subdomain like `subdomain.yourdomain.tk`, you should use **user pages**, and the IP will be like `username.github.io` other than `204.232.175.78`. And the IP will be auto-adjusted.
+The tutorial above only setup a domain on project pages. If you want to setup subdomain like `subdomain.yourdomain.tk`, you should use **user pages**, set the DNS as `CNAME recored` other than `A record`, and the IP will be like `username.github.io` other than `204.232.175.78`. And the IP will be auto-adjusted.
 
