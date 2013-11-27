@@ -12,7 +12,7 @@ Suppose you have register a domain name `yourdomain.tk`
 
 Step 2. 
 =======
-Create a repository in github, named as `REPO`. Pages in this repository are usually  **project pages**. See https://help.github.com/articles/user-organization-and-project-pages. If you use `username/username.github.io` as your repository name, this is a **user/organization** one, and one user can have the only one repository for hosting.
+Create a repository in github, named as `REPO`. Pages in this repository are usually  **project pages**. See [[https://help.github.com/articles/user-organization-and-project-pages|user-organization-and-project-pages]]. If you use `username/username.github.io` as your repository name, this is a **user/organization** one, and one user can have the only one repository for hosting.
 
 In `REPO` repository, create a `CNAME` file in `gh-pages` branches. Because this is a project one, other than **usr/organization**. In **usr/organization** case, you just use the `master` branch.
 
