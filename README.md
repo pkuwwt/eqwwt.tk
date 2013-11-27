@@ -5,7 +5,7 @@ Host a website on github.
 
 Step 1.
 =======
-Register a domain name. io.tk website provide free domain name.
+Register a domain name. [[io.tk]] website provide free domain name.
 
 Suppose you have registered a domain name `yourdomain.tk`
 
