@@ -1,7 +1,7 @@
-eqwwt.tk
+Host a website on github.
 ========
 
-Host a website on github.
+
 
 Step 1.
 =======
