@@ -33,3 +33,7 @@ Note:
 =======
 The tutorial above only setup a domain on project pages. If you want to setup subdomain like `subdomain.yourdomain.tk`, you should use **user pages**, set the DNS as `CNAME recored` other than `A record`, and the IP will be like `username.github.io` other than `204.232.175.78`. And the IP will be auto-adjusted.
 
+
+Reference:
+=======
+https://help.github.com/categories/20/articles
