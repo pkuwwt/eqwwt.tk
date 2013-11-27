@@ -7,7 +7,7 @@ Step 1.
 =======
 Register a domain name. io.tk website provide free domain name.
 
-Suppose you have register a domain name `yourdomain.tk`
+Suppose you have registered a domain name `yourdomain.tk`
 
 
 Step 2. 
